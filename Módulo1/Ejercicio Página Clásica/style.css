@@ -1,0 +1,41 @@
+body {
+    margin-left: 50px;
+    margin-right: 200px;
+    background-color: rgb(247, 237, 223);
+    
+}
+div {
+    font-size: 13px;
+    margin-bottom: 50px;
+}
+
+.publi {
+   font-family: 'Montserrat', sans-serif;
+   display: block;
+   height: 70px;
+   width: 300px; 
+   margin-top: 45px;
+   margin-bottom: 0;
+}
+
+.seg-publi {
+    text-align: left;
+    text-align: end;
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    margin-left: 400px;
+    }
+
+footer {
+    height: auto;
+    margin-bottom: 0px;
+    font-size: 12px;
+}
+
+a {
+    color: blue;
+}
+
+.text {
+    font-family: 'Sometype Mono', monospace;
+}
